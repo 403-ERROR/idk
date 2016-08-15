@@ -6,11 +6,11 @@ using namespace std;
 int main()
 
 {
-	cout << "   Hello World!\n";
-	cout << "    Leon Here\n";
+	cout << "   Hello World!\n    ";
+	cout << "    Leon Here\n      ";
 	cout << "I Guess this works!\n";
 	int Math = 100;
-	cout << "Number:";
+	cout << "  Number:";
 	Math = Math /12;
 	Math = Math +102;
 	Math = Math -13;
